@@ -17,7 +17,7 @@ Welcome to the Hangman Game application! This app brings the classic word-guessi
 
 ## Demo
 
-Experience the thrill of the Hangman Game by trying out the [Hangman Game Demo]([https://example-hangman-game-demo.netlify.app/](https://rococo-tarsier-97c5c6.netlify.app/))!
+Experience the thrill of the Hangman Game by trying out the [Hangman Game Demo](https://rococo-tarsier-97c5c6.netlify.app)!
 
 <img src="/demo.png"/>
 
