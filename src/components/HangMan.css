@@ -1,0 +1,26 @@
+.hangman-container {
+  position: relative;
+}
+
+.word-container {
+  display: flex;
+  gap: ".25em";
+  font-size: 6rem;
+  font-weight: "bold";
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+.word-letter {
+  border-bottom: 0.1em solid black;
+  margin-right: 2rem;
+}
+
+
+.keyboard-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(75px,1fr));
+    gap: ".5rem"
+}
+
+
